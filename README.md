@@ -16,7 +16,7 @@ I am trying to use latest packages and for development I use utils for developme
 
 **Marley**
 
-Any questions on eng: <a href="https://jsdev.org/chat/">Telegram Chat</a>
-Любые вопросы на русском: <a href="https://jsdev.ru/chat/">Telegram Chat</a>
+Any questions on eng: <a href="https://jsdev.org/chat/">Telegram Chat</a>  
+Любые вопросы на русском: <a href="https://jsdev.ru/chat/">Телеграм чат</a>
 
  
