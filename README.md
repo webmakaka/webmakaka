@@ -1,6 +1,6 @@
 ### Hello ${userName}, if you watch video courses and read books, please share interesting projects with us!
 
-Please use docker and kubernetes to deploy results by a few commands.
+Please use docker and kubernetes to deploy results with a few commands.
 
 ---
 
@@ -12,6 +12,8 @@ I am trying to use latest packages and for development I use utils for developme
 
 **Final Project should be:**  
 https://www.tinyhouse.app/
+
+If you will watch this course, please send me link to your repo.
 
 ---
 
