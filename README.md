@@ -21,7 +21,7 @@ If you watch this course, please send me link to your repo.
 
 **Marley**
 
-Any questions in eng: <a href="https://jsdev.org/chat/">Telegram Chat</a>  
+Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>  
 Любые вопросы на русском: <a href="https://jsdev.ru/chat/">Телеграм чат</a>
 
  
