@@ -2,6 +2,8 @@
 
 Please use docker and kubernetes to deploy results with a few commands.
 
+You can use minikube or <a href="https://github.com/webmakaka/vagrant-kubernetes-3-node-cluster-centos7">local kubernetes cluster</a> for this purposes.
+
 ---
 
 For now I am watching very interesting course <a href="https://github.com/webmakaka/TinyHouse-A-Fullstack-React-Masterclass-with-TypeScript-and-GraphQL">[NewLine] TinyHouse: A Fullstack React Masterclass with TypeScript and GraphQL [ENG, 2020]</a>
