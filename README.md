@@ -6,11 +6,11 @@ You can use minikube or <a href="https://github.com/webmakaka/vagrant-kubernetes
 
 ---
 
-For now I am watching very interesting course <a href="https://github.com/webmakaka/TinyHouse-A-Fullstack-React-Masterclass-with-TypeScript-and-GraphQL">[NewLine] TinyHouse: A Fullstack React Masterclass with TypeScript and GraphQL [ENG, 2020]</a>
+For now I am watching a very interesting course <a href="https://github.com/webmakaka/TinyHouse-A-Fullstack-React-Masterclass-with-TypeScript-and-GraphQL">[NewLine] TinyHouse: A Fullstack React Masterclass with TypeScript and GraphQL [ENG, 2020]</a>
 
 Can recommend this course to anyone who wants to study react / typescript / graphq.
 
-I am trying to use latest packages and I use util skaffold for development right in kubernetes.
+I am trying to use latest packages and I use **skaffold** for develop apps right in **kubernetes**.
 
 **Final Project should be:**  
 https://www.tinyhouse.app/
