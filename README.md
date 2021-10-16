@@ -12,6 +12,11 @@ I have no experience with the rust language, and the project is not even compili
 
 If you are interested in this theme, you can also work on this project and recommend solutions how to fix it. 
 
+
+**Possible, can help to start!**
+
+https://www.youtube.com/watch?v=yNe9Xr35n4Q&list=PL8lUUBadSMNBNKMYJpUE830tBiN6bxVRw
+
 ---
 
 <br/>
