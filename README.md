@@ -1,5 +1,5 @@
 # Against war between Ukraine and Russia! 
-# Against Putin!
+# Against Putin and his Government!
 
 <hr/>
 
