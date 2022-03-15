@@ -3,7 +3,10 @@
 
 <hr/>
 
-![Application](/stop-war.png?raw=true)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/webmakaka/webmakaka/master/stop-war.png" alt="Stop War Between Ukraine and Russia"/>
+</p>
+
 
 <hr/>
 
