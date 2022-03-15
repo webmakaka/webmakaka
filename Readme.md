@@ -3,6 +3,10 @@
 
 <hr/>
 
+![Application](/stop-war.png?raw=true)
+
+<hr/>
+
 ### Hello ${userName}, if you watch video courses and read books, please share interesting projects with us!
 
 Please use docker and kubernetes to deploy results with a few commands.
